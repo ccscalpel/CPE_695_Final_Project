@@ -6,10 +6,10 @@ the dataset I use is from https://www.kaggle.com/pranavraikokte/covid19-image-da
 
 ## ML method:
 #### Logistical Regression:
-### SVM:
-### Random Forest:
+#### SVM:
+#### Random Forest:
 
 
 
 ## DL method:
-### CNN:
+#### CNN:
