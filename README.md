@@ -13,3 +13,6 @@ Dataset I use is from https://www.kaggle.com/pranavraikokte/covid19-image-datase
 
 ## DL method:
 #### CNN:
+
+
+# Data Preprocessing and Data Augment
